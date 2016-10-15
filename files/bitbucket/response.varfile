@@ -1,0 +1,11 @@
+# install4j response file for Bitbucket 4.10.0
+app.bitbucketHome=/opt/atlassian/application-data/bitbucket
+app.defaultInstallDir=/opt/atlassian/bitbucket/4.10.0
+executeLauncherAction$Boolean=false
+httpPort=7990
+installation.is.new.install=true
+installation.type=INSTALL
+launch.application$Boolean=true
+serverPort=8006
+sys.adminRights$Boolean=false
+sys.languageId=en
