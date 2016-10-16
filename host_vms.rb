@@ -1,5 +1,5 @@
 # To use with irb, first start irb
-# Then run:  load './host_vms'
+# Then run:  load './host_vms.rb'
 @vms = Hash.new
 
 @vms[:crowd] = {box: "bento/ubuntu-14.04",
