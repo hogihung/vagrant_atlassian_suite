@@ -1,12 +1,12 @@
 # README - Atlassian Suite Vagrant Based VMs
 
-Prerequisites:
+**Prerequisites:**
 
   1. VirtualBox 5.1.6+
   2. Vagrant 1.8.6+
 
 
-This Virtual Machine provides:
+**This Virtual Machine provides:**
 
   1.  Crowd 2.10.1
   2.  Jira 7.2.1 
@@ -69,6 +69,6 @@ Also note, that you will need to apply for or use your Licenses for each product
 No licenses are provided in this repo.
 
 
-Note:  The file host_vms.rb is not currently used.  Sometime in the future I'd 
+*Note:  The file host_vms.rb is not currently used.  Sometime in the future I'd 
        like to be able to use that file to define the target host VMs and let
-       the Vagrantfile iterate over the hash.
+       the Vagrantfile iterate over the hash.*
